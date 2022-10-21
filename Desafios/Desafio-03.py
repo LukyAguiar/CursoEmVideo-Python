@@ -6,4 +6,4 @@ n2 = int(input("Digite um número para n2: "))
 
 resultado = (n1 + n2);
 
-print(resultado);
+print("" + resultado);
